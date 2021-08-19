@@ -62,7 +62,7 @@ header h1 {
 
 nav {
 	width: 100vw;
-	height: 60px;
+	height: 10vh;
 	background: rgba(0, 0, 0, 0.4);
 	postion: fixed;
 	z-index: 10;
